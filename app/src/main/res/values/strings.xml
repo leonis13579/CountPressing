@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Count Pressing</string>
+    <string name="pressedTitle">Количество нажатий на клавишу:</string>
+    <string name="btnTitle">Нажми на меня</string>
+</resources>
